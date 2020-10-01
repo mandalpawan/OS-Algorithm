@@ -1,4 +1,6 @@
 import java.util.Scanner;
+
+//siddhant
 class fcfs{
 	static void  Waittime(int wT[],int bT[],int P){
 		wT[0]=0;
